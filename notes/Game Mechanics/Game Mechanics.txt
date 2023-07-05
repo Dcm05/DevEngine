@@ -1,0 +1,16 @@
+[BKB] Base Knockback
+[KBG] Knockback Growth
+
+[BHS] Base Hitstun
+[HSG] Hitstun Growth
+
+[D] Move Damage
+[P] Percent
+
+[W] Weight
+
+-----------------------------------------------------------------------------------------
+
+Knockback = 
+
+Hitstun = (P*HSG)+BHS

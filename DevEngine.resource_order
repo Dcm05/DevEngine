@@ -2,5 +2,7 @@
   "FolderOrderSettings": [
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Game Mechanics","order":11,"path":"notes/Game Mechanics/Game Mechanics.yy",},
+  ],
 }
